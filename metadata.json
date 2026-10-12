@@ -1,0 +1,6 @@
+{
+  "name": "Uso de herramienta pospagos PLUS - Mall Ibagué",
+  "description": "Dashboard ejecutivo de seguimiento y análisis de indicadores para la herramienta pospagos PLUS en Mall Ibagué.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
